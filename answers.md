@@ -15,4 +15,4 @@ Answer 10: My changes weren't saved in the local copy
 Answer 11: The push failed and the terminal told me to try pulling first
 Answer 12: After pulling my changes appeared in my local copy
 Answer 13: shows files for . .. .git .gitignore README.md
-Answer 14: 
+
